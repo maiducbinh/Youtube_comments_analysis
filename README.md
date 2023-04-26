@@ -1,6 +1,6 @@
 # Thu thập nội dung comment từ một video trên Youtube và phân tích ý nghĩa
 ## 1. Crawl comments
-Sử dụng thư viện Selenium hoặc googleapiclient (recommend) để thu thập comment, bao gồm: tên author, nội dung, ngày đăng, ngày chỉnh sửa.
+Sử dụng thư viện Selenium hoặc googleapiclient (recommend) để thu thập comment, bao gồm: tên author, nội dung, lượt thích, ngày đăng, ngày chỉnh sửa.
 
 Vẽ biểu đồ phân tích số lượng comment theo ngày.
 
