@@ -9,4 +9,4 @@ Tích hợp ChatGPT để phân tích nội dung comment theo 2 ý nghĩa: tích
 
 Gán nhãn cho những author có comment tiêu cực.
 
-### Một project nhỏ để góp phần bảo vệ cộng đồng khỏi những thông tin xấu độc.
+## 3. Fine tuning ada model
